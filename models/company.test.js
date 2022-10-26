@@ -93,25 +93,14 @@ describe("findAll", function () {
     expect(companies).toEqual(
     [
         {
-          handle: "ayala-buchanan",
           name: "Ayala-Buchanan",
-          description: "Make radio physical southern. His white on attention kitchen market upon. Represent west open seven. Particularly subject billion much score thank bag somebody.",
-          numEmployees: 309,
-          logoUrl: null
         },
         {
-          handle: "garcia-ray",
           name: "Garcia-Ray",
-          description: "Laugh low follow fear. Politics main size fine.",
-          numEmployees: 217,
-          logoUrl: "/logos/logo2.png"
         },
         {
-          handle: "taylor-yu-lee",
           name: "Taylor, Yu and Lee",
-          description: "Down bag serve. Officer season company.",
-          numEmployees: 226,
-          logoUrl: "/logos/logo2.png"
+        
         },
       ]
   ) 
